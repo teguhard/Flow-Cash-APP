@@ -1,7 +1,11 @@
 Nama    : Ade Teguh Ardiansyah
+
 Nim     : 312410014
+
 Kelas   : TI.24.C1
+
 Matkul  : Pemrograman Mobile
+
 TUGAS UTS
 
 Aplikasi Cash Flow adalah aplikasi keuangan pribadi yang membantu pengguna
